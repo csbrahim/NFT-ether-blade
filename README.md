@@ -122,6 +122,22 @@ make train ARGS="--network sepolia"
 
 Educational / portfolio project. Audit before mainnet use with real value.
 
+## Frontend
+
+An interactive Next.js frontend is included in `ether-blade-frontend/`.
+
+### Running the Frontend
+
+```bash
+cd ether-blade-frontend
+npm install
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+> **Note on Reown / WalletConnect:** If you encounter a `Console Error: Origin http://localhost:3000 not found on Allowlist`, add `http://localhost:3000` to the allowed domains/origins list in your project settings on the [Reown Cloud Dashboard](https://cloud.reown.com/).
+
 ## License
 
 MIT
