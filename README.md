@@ -8,6 +8,8 @@ As the blade levels up via `trainBlade()`, both the **visual tier** and **on-cha
 
 ## **Live (Sepolia):** [`0x45F1514780b8065146426C11f93C0974A880687E`](https://sepolia.etherscan.io/address/0x45F1514780b8065146426C11f93C0974A880687E#code) · Verified on Etherscan
 
+## **App (Vercel):** [https://nft-ether-blade.vercel.app](https://nft-ether-blade.vercel.app)
+
 ## Features
 
 | Feature                | Implementation                                                        |
